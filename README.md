@@ -1,7 +1,7 @@
 # CMA-ES in MATLAB
 
 <p align = "center">
-    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea107-differential-evolution.jpg" alt = "CMA-ES in MATLAB">
+    <img src = "https://yarpiz.com/wp-content/uploads/2015/09/ypea108-cma-es.jpg" alt = "CMA-ES in MATLAB">
 </p>
 
 This is an implementation of Covariance Matrix Adaptation Evolution Strategy (CMA-ES) in MATLAB.
