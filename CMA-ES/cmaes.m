@@ -27,7 +27,7 @@ nVar = 10;                % Number of Unknown (Decision) Variables
 VarSize = [1 nVar];       % Decision Variables Matrix Size
 
 VarMin = -10;             % Lower Bound of Decision Variables
-VarMax =  10;             % Upper Bound of Decision Variables
+VarMax = 10;             % Upper Bound of Decision Variables
 
 %% CMA-ES Settings
 
